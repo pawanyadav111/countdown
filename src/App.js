@@ -1,7 +1,7 @@
 import React from 'react';
 import Countdown from './components/countdown';
 
-function App() {
+const App = ()=> {
   return (
     <div className="App min-h-screen flex items-center justify-center">
       <Countdown />
